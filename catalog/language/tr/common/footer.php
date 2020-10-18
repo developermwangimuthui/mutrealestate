@@ -32,5 +32,5 @@ $_['text_properties']   = 'özellikleri';
 $_['text_need']         = 'yardıma ihtiyacım var?';
 //xml update
 //$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
-$_['text_powered']      = 'Tarafından desteklenmektedir <a href="">Realestate</a> %s &copy; %s';
+$_['text_powered']      = 'Tarafından desteklenmektedir <a href="">Saka Keja</a> %s &copy; %s';
 //xml update
