@@ -88,6 +88,21 @@
 	<link href="catalog/view/theme/realestate/stylesheet/bootstrap-rtl.min.css" rel="stylesheet">
 	<link href="catalog/view/theme/realestate/stylesheet/rtl.css" rel="stylesheet">
 <?php } ?>
+
+	<!-- Default Statcounter code for Saka Keja http://www.sakakeja.com/ -->
+<script type="text/javascript">
+var sc_project=12414104; 
+var sc_invisible=1; 
+var sc_security="7e6a5cc1"; 
+var sc_https=1; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12414104/0/7e6a5cc1/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
 </head>
 <body class="<?php echo $class; ?>">
 <!--top bar code start here-->
@@ -132,8 +147,6 @@
 	</div>
 
 
-
-	{* Statcounter *}
 
 	<!-- Default Statcounter code for Saka Keja http://www.sakakeja.com/ -->
 <script type="text/javascript">
